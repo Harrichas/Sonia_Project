@@ -31,22 +31,13 @@
     padding: 14px 20px;
     text-decoration: none;
   }
+
+  .About {
+    text-align: center;
+  }
   
   main {
     display: flex;
-  }
-  
-  aside {
-    flex: 30%;
-    background-color: #b9c6ae;
-    padding: 20px;
-    flex-wrap: wrap;
-  }
-  
-  section {
-    flex: 70%;
-    background-color: #fff;
-    padding: 20px;
   }
   
   footer {
@@ -54,6 +45,14 @@
     text-align: center;
     background: #13293d;
     color: #fff;
+  }
+
+  .hours {
+      text-align: left;
+  }
+
+  .links {
+      text-align: right;
   }
   
   /* Image Placeholders */
